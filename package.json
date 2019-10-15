@@ -1,5 +1,5 @@
 {
-  "name": "mern",
+  "name": "book_search",
   "version": "1.0.0",
   "description": "react based google book search",
   "main": "server.js",
@@ -13,7 +13,7 @@
     "build": "cd client && npm run build",
     "heroku-postbuild": "npm run build"
   },
-  "author": "Lily Simmons",
+  "author": "Shivam Sukhwal",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^4.1.2",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lilysimmons/google-books-search"
+    "url": "git+https://github.com/lilysimmons/google-books-search.git"
   },
   "bugs": {
     "url": "https://github.com/lilysimmons/google-books-search/issues"
